@@ -1,0 +1,81 @@
+body {
+  background-color: #1d2d44;
+}
+
+.icone {
+  font-size: 3rem;
+}
+
+.rotulo {
+  font-size: 2.5rem;
+}
+
+.fundo_cinza {
+  background-color: rgb(227, 227, 227);
+}
+
+.botao_laranja {
+  background-color: orange;
+}
+
+.botao_laranja:hover {
+  background-color: rgb(228, 132, 0);
+  color: #f0ebd8;
+}
+
+.degrade {
+  background: linear-gradient(
+    180deg,
+    #ffffff 41.1%,
+    #ffffff 64.96%,
+    #1d2d44 85.2%
+  );
+}
+
+.margem_impressao_digital {
+  margin-top: 10rem;
+}
+
+section {
+  color: #f0ebd8;
+}
+
+.cabecalho {
+  background: #3e5c76;
+}
+
+.cabecalho i {
+  margin-left: 1rem;
+}
+
+.cabecalho span {
+  font-weight: bold;
+  font-size: 2rem;
+  margin-top: 0.75rem;
+}
+
+.corpo {
+  background-color: #1d2d44;
+}
+
+.corpo span {
+  font-size: 2rem;
+}
+
+.corpo label > span {
+  font-size: 1.8rem;
+}
+
+.corpo textarea,
+.corpo input {
+  background-color: rgb(227, 227, 227);
+}
+
+.rodape {
+  background-color: #3e5c76;
+}
+
+.rodape span {
+  font-weight: bold;
+  font-size: 3rem;
+}
